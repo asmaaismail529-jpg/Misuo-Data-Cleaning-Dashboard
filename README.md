@@ -1,35 +1,32 @@
-# Misuo-Data-Cleaning-Dashboard
-Excel dashboard project with heavy data cleaning
-# Messio Data Cleaning & Dashboard Project
+# MISUO Data Cleaning & Dashboard Project
 
-## Project Overview
-This project focuses on cleaning and preparing messy business data for **MIsuo company**, then building an Excel dashboard to extract meaningful insights.
+An Excel dashboard with deep data cleaning for business insights.
 
-## Data Issues
-- Duplicate values
-- Inconsistent naming (same category written in different ways)
-- Missing values
-- Incorrect data types
-- Unstructured raw data
+## 📁 Dataset
+- Source: Raw business data from MISUO
+- Issues: duplicates, inconsistent formats, missing values
 
-## Data Cleaning Process
+## 🔍 Data Cleaning
 - Removed duplicates
 - Standardized categories
-- Handled missing values
+- Fixed missing values
 - Corrected data types
-- Validated data accuracy
 
-## Tools Used
-- Microsoft Excel
-- Data Cleaning techniques
+## 🛠 Tools Used
+- Excel
 - Pivot Tables
-- Charts & Dashboards
+- Charts
 
-## Outcome
-- Clean and reliable dataset
+## 📊 Dashboard Preview
+<img width="1319" height="420" alt="Screenshot 2026-02-04 134934" src="https://github.com/user-attachments/assets/ec1b2a65-aaaf-46ca-b5bb-2ae09fe6c1d6" />
+
+
+## 🚀 Outcome
+- Clean dataset
 - Clear KPIs
-- Interactive dashboard supporting decision-making
+- Actionable visual insights
 
-## Dashboard Preview
-<img width="1319" height="420" alt="Screenshot 2026-02-04 134934" src="https://github.com/user-attachments/assets/37547eac-b908-4977-a03f-60d12846a1aa" />
-
+## 🧭 How to Use
+1. Open the cleaned Excel file.
+2. Navigate to Dashboard sheet.
+3. Explore visuals & insights.
